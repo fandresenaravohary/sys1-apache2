@@ -1,7 +1,7 @@
 Sois prêt à lire héhé.
 # **Configuration d'apache2 avec un script YML**
 
-Je précise que oour ce tutoriel, vous aurez besoin de :
+Je précise que pour ce tutoriel, vous aurez besoin de :
     Deux droplets Ubuntu 14.04 : un droplet principal avec Ansible et un droplet secondaire qui exécutera Apache configuré via Ansible
     Utilisateurs Sudo non root pour les deux Droplets.
     Ansible installé sur le Droplet maître. Suivez ce tutoriel (jusqu'à la section Configurer les clés SSH). Bien que ce tutoriel ait été écrit pour Ubuntu 12.04, il est toujours pertinent pour Ubuntu 14.04.
